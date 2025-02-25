@@ -2,6 +2,7 @@
 - 👀 I’m interested in backend & frontend programming
 - 🌱 I’m currently learning .NET
 - 📫 How to reach me naman.c@sparrowrms.in
+- Ayussh is my best friend
 
 
 <!---
